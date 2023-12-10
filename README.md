@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LaleLUTZ
+- 👀 I’m interested in AI and coding
+- 🌱 I’m currently learning Python and JS
+- 💞️ I’m looking to collaborate on datascience Projekts
+- 📫 How to reach me? Write me!
