@@ -1,15 +1,8 @@
 <h1 align="center">
   Hi, I'm <a href="https://lalelu1234.github.io/" target="blank">Lucas</a>
 </h1>
-<h3 align="center">
-  Chemical Production Technician and Junior Python Developer from Germany
-</h3>
-<br><br><br>
-
-<h2>👋 About Me</h2>
-<p align="center">I am a Chemical Production Technician with a strong interest in programming. I have experience working with various programming languages and tools. I am constantly learning and exploring new technologies to enhance my skill set.
+<p align="center">I am a Chemical Production Technician with a strong interest in programming and AI. I have experience working with various programming languages and tools. I am constantly learning and exploring new technologies to enhance my skill set.
 </p>
-
 <br>
 
 <h2>👨‍💻 Programming and Scripting Languages</h2>
@@ -21,8 +14,6 @@
   <a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 </p>
 
-<br>
-
 <h2>🧰 Tools and Environment</h2>
 <p>
   <a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
@@ -33,8 +24,6 @@
   <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=flat"></a>
 </p>
 
-<br>
-
 <h2>💻 Operating System</h2>
 <p>
   <a href="https://linuxmint.com/"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat"></a>
@@ -44,16 +33,12 @@
   <a href="https://www.android.com/"><img alt="Android"src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat"></a>
 </p>
 
-<br>
-
 <h2>🔭 Currently Learning</h2>
 <p>
   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
   <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat"></a>
   <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat"></a>
 </p>
-
-<br>
 
 <h2>💬 Contact</h2>
 <p>
@@ -63,11 +48,11 @@
   <a href="https://www.freelancer.com/u/Luucas222"><img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=fff&style=flat"></a>
   <a href="https://github.com/LAleLU1234"><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
 </p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <a href="https://git.io/streak-stats">
-    <img style="width: 80%; max-width: 80%;" src="https://streak-stats.demolab.com?user=LAleLU1234&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D&background=45%2CC8C9CB%2C000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak">
-  </a>
-</div>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/langs?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
 <br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
