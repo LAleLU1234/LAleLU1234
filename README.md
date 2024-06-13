@@ -64,4 +64,10 @@
   <a href="https://github.com/LAleLU1234"><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
 </p>
 
+<div style="display: flex; justify-content: center; width: 100%;">
+  <a href="https://git.io/streak-stats">
+    <img style="width: 80%; max-width: 80%;" src="https://streak-stats.demolab.com?user=LAleLU1234&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D&background=45%2CC8C9CB%2C000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak">
+  </a>
+</div>
+
 <br>
