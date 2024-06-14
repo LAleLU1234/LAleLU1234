@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h1 align="center">
   Hi, I'm <a href="https://lalelu1234.github.io/" target="blank">Lucas</a>
 </h1>
@@ -48,11 +49,11 @@
   <a href="https://www.freelancer.com/u/Luucas222"><img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=fff&style=flat"></a>
   <a href="https://github.com/LAleLU1234"><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
 </p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/LAleLU1234/LAleLU1234#readme-top">back to top</a>)</p>
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/langs?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/LAleLU1234/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=classic)](https://githubtrends.io)
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/LAleLU1234/LAleLU1234#readme-top">back to top</a>)</p>
