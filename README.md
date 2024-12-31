@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**LAleLU1234/LAleLU1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <a name="readme-top"></a>
 <h1 align="center">
   Hi, I'm <a href="https://lalelu1234.github.io/" target="blank">Lucas</a>
@@ -67,6 +49,3 @@ Here are some ideas to get you started:
   <a href="https://www.freelancer.com/u/Luucas222"><img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=fff&style=flat"></a>
   <a href="https://github.com/LAleLU1234"><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
 </p>
-<p align="right">(<a href="https://github.com/LAleLU1234/LAleLU1234#readme-top">back to top</a>)</p>
-<br>
-<p align="right">(<a href="https://github.com/LAleLU1234/LAleLU1234#readme-top">back to top</a>)</p>
