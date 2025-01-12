@@ -2,15 +2,17 @@
 <h1 align="center">
   Hi, I'm <a href="https://lalelu1234.github.io/" target="blank">Lucas</a>
 </h1>
-<p align="center">I am a Chemical Production Technician with a strong interest in programming and AI. I have experience working with various programming languages and tools. I am constantly learning and exploring new technologies to enhance my skill set.
+<p align="center">I’m a Chemical Production Technician with a passion for programming and AI.
+<br>
+My goal is to level my skills in data analysis and software development to create innovative projects.
 </p>
 <br>
 
-<h2>👨‍💻 Programming and Scripting Languages</h2>
+<h2>👨‍💻 Programming Languages</h2>
 <p>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
   <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
   <a href="https://wiki.selfhtml.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
   <a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 </p>
@@ -29,15 +31,11 @@
 <p>
   <a href="https://linuxmint.com/"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat"></a>
   <a href="https://fedoraproject.org/"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat"></a>
-  <a href="https://www.kali.org/"><img alt="Kali"src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat"></a>
   <a href="https://www.microsoft.com/"><img alt="Windows"src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat"></a>
-  <a href="https://www.android.com/"><img alt="Android"src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🔭 Currently Learning</h2>
 <p>
-  <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-  <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat"></a>
   <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat"></a>
 </p>
 
@@ -45,7 +43,6 @@
 <p>
   <a href="https://www.linkedin.com/in/lucas-wintel-35712a262/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
   <a href="mailto: lakiri.lw@googlemail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"></a>
-  <a href="https://discord.gg/pCU6QQQ4sJ"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"></a>
   <a href="https://www.freelancer.com/u/Luucas222"><img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=fff&style=flat"></a>
   <a href="https://github.com/LAleLU1234"><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
 </p>
